@@ -2,6 +2,7 @@
   "name": "mrdandandan-gg-api-module",
   "version": "0.0.0",
   "description": "guardian.gg api definitions module",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "prepublish": "npm run build"
